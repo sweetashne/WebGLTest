@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Space Invaders-0.1";
 const contentToCache = [
     "Build/Teeest.loader.js",
-    "Build/Teeest.framework.js.gz",
-    "Build/Teeest.data.gz",
-    "Build/Teeest.wasm.gz",
+    "Build/Teeest.framework.js",
+    "Build/Teeest.data",
+    "Build/Teeest.wasm",
     "TemplateData/style.css"
 
 ];
