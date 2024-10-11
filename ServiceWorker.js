@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Climber-0.1";
 const contentToCache = [
     "Build/ClimberWebGl.loader.js",
-    "Build/ClimberWebGl.framework.js.gz",
-    "Build/ClimberWebGl.data.gz",
-    "Build/ClimberWebGl.wasm.gz",
+    "Build/ClimberWebGl.framework.js",
+    "Build/ClimberWebGl.data",
+    "Build/ClimberWebGl.wasm",
     "TemplateData/style.css"
 
 ];
